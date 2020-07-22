@@ -19,4 +19,4 @@ npm install font-awesome --save
 ---------------------------------
 
 Angular CDK
-npm install @angular/cdk --save
+npm i @angular/cdk@8.2.3 --save
