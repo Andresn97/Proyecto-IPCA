@@ -1,0 +1,22 @@
+
+Libreía utilizadas
+--------------------------------
+
+Bootstrap (Archivos Locales)
+
+--------------------------------
+
+PrimeNG
+npm install primeng --save
+npm install primeicons --save
+https://www.primefaces.org/primeng/showcase/#/setup
+
+--------------------------------
+
+Font Awesome
+npm install font-awesome --save
+
+---------------------------------
+
+Angular CDK
+npm install @angular/cdk --save
